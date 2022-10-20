@@ -24,7 +24,12 @@ public class Main {
         long var14 = 987678965549L;
         float var15 = 67.f;
         double var16 = 27.12;
-        var16 = var11+var12+var13+var14+var15;
+        System.out.println("Значение переменной 11 с типом int равно " + var11);
+        System.out.println("Значение переменной 12 с типом byte равно " + var12);
+        System.out.println("Значение переменной 13 с типом short равно " + var13);
+        System.out.println("Значение переменной 14 с типом long равно " + var14);
+        System.out.println("Значение переменной 15 с типом float равно " + var15);
+        System.out.println("Значение переменной 16 с типом double равно " + var16);
         char var17 = 569;
         boolean var18 = false;
         System.out.println("Значение переменной 7 с типом char равно " + var17);
