@@ -24,6 +24,7 @@ public class Main {
         long var14 = 987678965549L;
         float var15 = 67.f;
         double var16 = 27.12;
+        var16 = var11+var12+var13+var14+var15;
         char var17 = 569;
         boolean var18 = false;
         System.out.println("Значение переменной 7 с типом char равно " + var17);
@@ -100,6 +101,6 @@ public class Main {
         System.out.println("у Дениса на " + salaryD10 * 12 + " рублей");
         System.out.println("у Кристины на " + salaryK10 * 12 + " рублей");
 
-        System.out.println("********");
+        System.out.println("*********");
     }
 }
